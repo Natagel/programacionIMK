@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+// el alfabeto 
+
+int main ()
+{
+    char n = 'a';
+    printf ("EL ALFABETO: \n");
+
+    while (n<='z')
+    {
+        printf ("%c \n", n);
+        n++;
+    }
+    return (0);
+}

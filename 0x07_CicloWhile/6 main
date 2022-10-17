@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+// primer y último dígito usando bucle while
+
+int main ()
+{
+    int n;
+    int suma=0;
+    int n1, n2;
+
+    printf ("Ingresa los numeros: \n");
+    scanf ("%d", &n);
+     n2=n %10;
+
+    while (n>=10)
+    {
+       n =n/10;
+    }   
+    n1 =n;
+
+    suma= n1+n2;
+     printf("La suma de el primer y segundo digito es: %d \n", suma);
+
+    return (0);
+}
+
