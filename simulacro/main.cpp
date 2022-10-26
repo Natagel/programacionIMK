@@ -23,7 +23,6 @@ int main() {
 	system("pause");
 	return 1;
 }
-[0:40 p. m., 24/10/2022] Ashley: #include <stdio.h>
 #include <math.h>
 int main()//pow
 { 
