@@ -1,15 +1,4 @@
-/******************************************************************************
 
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
-#include <iostream>
-
-[0:04 p. m., 24/10/2022] Ashley: #include<stdio.h>
-#include<stdlib.h>
 
 int main() {
 	float gallones = 1;
